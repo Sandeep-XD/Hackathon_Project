@@ -1,4 +1,10 @@
+.form-control{
+    
+}
+.input-group-text{
+width: 100px;
 
+}
 .container{
     background-color: rgb(183, 229, 235) ;
     margin-top: 100px; 
